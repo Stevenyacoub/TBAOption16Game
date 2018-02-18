@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/titlesceen.unity
+    guid: 675d694d254b2a542b0248ad029aaff3
+  - enabled: 1
+    path: Assets/between.unity
+    guid: cf640b00a2c9f94419e29445711f4d51
+  - enabled: 1
+    path: Assets/losetween.unity
+    guid: 157e8641b5f5ea04cae1fc071a20949a
+  - enabled: 1
+    path: Assets/wintween.unity
+    guid: 0b900b2a8a23bbd44b6ca0d3fd78a2d6
+  - enabled: 1
+    path: Assets/game.unity
+    guid: 9851ccae32d8f3d4bbf40fb53b8317bc
+  - enabled: 1
+    path: Assets/main.unity
+    guid: ef375d6f4d2add341b3e6edf86b1b9f2
+  - enabled: 1
+    path: Assets/screwgame.unity
+    guid: 88df379c7d29b1546b57992975be1d73

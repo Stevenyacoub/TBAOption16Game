@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/steve/Desktop/Scout-master/Assets/scene.unity
+  isLoaded: 1
+  isActive: 1
